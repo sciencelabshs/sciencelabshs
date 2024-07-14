@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sciencelabshs
-- 👀 I’m interested in data science and computing tools in education
-- 🌱 I’m currently learning data science tools 
+- 👋 Hi, I’m @Haranatha Sarma Sridhara
+- 👀 I’m interested in IoT, AI/ML, data science and computing tools in education
+- 🌱 I’m currently working on bringing digital tools within a campus 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vlabshs@gmail.com
 
